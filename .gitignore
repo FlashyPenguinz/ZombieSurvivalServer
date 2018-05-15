@@ -1,0 +1,11 @@
+*.war
+
+*.ear
+
+*.class
+
+
+bin/**
+
+.settings/
+
