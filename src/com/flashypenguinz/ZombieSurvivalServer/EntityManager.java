@@ -1,10 +1,10 @@
-package com.mudkiper202.ZombieSurvivalServer;
+package com.flashypenguinz.ZombieSurvivalServer;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.mudkiper202.ZombieSurvival.net.entities.NetEntity;
-import com.mudkiper202.ZombieSurvival.net.entities.NetPlayer;
+import com.flashypenguinz.ZombieSurvival.net.entities.NetEntity;
+import com.flashypenguinz.ZombieSurvival.net.entities.NetPlayer;
 
 public class EntityManager {
 

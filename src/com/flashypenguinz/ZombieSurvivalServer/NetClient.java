@@ -1,4 +1,4 @@
-package com.mudkiper202.ZombieSurvivalServer;
+package com.flashypenguinz.ZombieSurvivalServer;
 
 import java.net.InetAddress;
 
